@@ -10,6 +10,7 @@
 
 
 
+
 const tbody = document.querySelector('#cryptoTable tbody');
 const searchInput = document.getElementById('search');
 
