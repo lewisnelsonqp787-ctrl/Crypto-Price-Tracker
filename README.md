@@ -1,6 +1,7 @@
 
 
 
+
 # Crypto Price Tracker
 
 A lightweight, real-time cryptocurrency price tracker built with HTML, CSS & JavaScript.
